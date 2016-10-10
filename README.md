@@ -73,3 +73,11 @@ ul>li{item$}*3
 ```
 
 - [디자이너에게 영감을 주는 사이트](http://iropke.com/blog/archives/category/project-insight)
+
+### 인용 구문
+
+인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다<br>
+HTML 안에서는 `<blockquote>`요소를 사용하여 인용절을 구조화한다.
+
+> "Design is All. All is Design"<br>
+> "Learn By Doing" <br>
