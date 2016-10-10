@@ -64,5 +64,12 @@ ul>li{item$}*3
 ```html
 <img src="http://www.clipartkid.com/images/3/red-rose-clip-art-tattoo-design-just-free-image-download-ToIStL-clipart.jpg" alt="rose">
 ```
+![rose](assets/rose.jpg "rose")
 
-![rose](http://www.clipartkid.com/images/3/red-rose-clip-art-tattoo-design-just-free-image-download-ToIStL-clipart.jpg)
+### 하이퍼링크
+
+```html
+<a href="http://iropke.com">이롭게 에이전시</a>
+```
+
+- [디자이너에게 영감을 주는 사이트](http://iropke.com/blog/archives/category/project-insight)
