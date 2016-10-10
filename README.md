@@ -62,7 +62,7 @@ ul>li{item$}*3
 ### 이미지
 
 ```html
-<img src="https://www.tumblr.com/search/myspace%20gif" alt="rose">
+<img src="http://www.clipartkid.com/images/3/red-rose-clip-art-tattoo-design-just-free-image-download-ToIStL-clipart.jpg" alt="rose">
 ```
 
-![rose](https://www.tumblr.com/search/myspace%20gif)
+![rose](http://www.clipartkid.com/images/3/red-rose-clip-art-tattoo-design-just-free-image-download-ToIStL-clipart.jpg)
