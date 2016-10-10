@@ -58,3 +58,11 @@ ul>li{item$}*3
 1. item1
 1. item2
 1. item3
+
+### 이미지
+
+```html
+<img src="https://www.tumblr.com/search/myspace%20gif" alt="rose">
+```
+
+![rose](https://www.tumblr.com/search/myspace%20gif)
