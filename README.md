@@ -64,7 +64,7 @@ ul>li{item$}*3
 ```html
 <img src="http://www.clipartkid.com/images/3/red-rose-clip-art-tattoo-design-just-free-image-download-ToIStL-clipart.jpg" alt="rose">
 ```
-![rose](assets/rose.jpg "rose")
+![rose](Assets/rose.jpg "rose")
 
 ### 하이퍼링크
 
